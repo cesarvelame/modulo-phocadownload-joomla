@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="3.1"
+	client="site">
+	<name>mod_latest_phocadownload</name>
+	<author>César Velame</author>
+	<creationDate>2014</creationDate>
+	<copyright>Copyright (C) 2014</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>cesarvelame@gmail.com</authorEmail>
+	<authorUrl>www.cesarvelame.com</authorUrl>
+	<version>1.0</version>
+	<description>Módulo que mostra os últimos 5 documentos do Phoca Download para Joomla 3.x</description>
+	<files>
+		<filename module="mod_latest_phocadownload">mod_latest_phocadownload.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
